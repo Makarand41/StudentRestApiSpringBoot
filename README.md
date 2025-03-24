@@ -1,7 +1,7 @@
-#Student Management System with CRUD
+# Student Management System with CRUD
 This is a simple Spring Boot CRUD (Create, Read, Update, Delete) application for managing students. It provides RESTful APIs to perform operations on a student database.
 
-##Features
+## Features
 -Add a new student
 -Retrieve a student by ID
 -Retrieve all students
@@ -11,14 +11,14 @@ This is a simple Spring Boot CRUD (Create, Read, Update, Delete) application for
 -Count total students
 -Check if a student exists by ID
 
-##Technologies Used
+## Technologies Used
 -Java 17+
 -Spring Boot
  -MySQL
 -Lombok
 -Postman (for testing APIs)
 
-##API Endpoints
+## API Endpoints
 
 1 Create a Student
 
