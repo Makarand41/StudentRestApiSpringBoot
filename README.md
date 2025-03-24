@@ -2,21 +2,21 @@
 This is a simple Spring Boot CRUD (Create, Read, Update, Delete) application for managing students. It provides RESTful APIs to perform operations on a student database.
 
 ## Features
--Add a new student
--Retrieve a student by ID
--Retrieve all students
--Update student details
--Delete a student by ID
--Delete all students
--Count total students
--Check if a student exists by ID
+- Add a new student
+- Retrieve a student by ID
+- Retrieve all students
+- Update student details
+- Delete a student by ID
+- Delete all students
+- Count total students
+- Check if a student exists by ID
 
 ## Technologies Used
--Java 17+
--Spring Boot
- -MySQL
--Lombok
--Postman (for testing APIs)
+- Java 17+
+- Spring Boot
+- MySQL
+- Lombok
+- Postman (for testing APIs)
 
 ## API Endpoints
 
